@@ -17,7 +17,7 @@
 - [Third Party](#third-party)
 
 ## Installation
-- Download the latest version from Releases.
+- Download the latest version from [Releases](https://github.com/vastlimits/LeakDetect/releases).
 - Choose LeakDetect-x64 or LeakDetect-x86 depending on your instrumentation target platform.
 
 ## How does it work?
